@@ -24,7 +24,7 @@ sample_hist.root에는 1부터 1000까지의 숫자가 무작위로 섞여있다
 
 ### gnome_sort.c
 
-[![Cocktail Shaker Sort](https://img.youtube.com/vi/fKbibGro3JM/sddefault.jpg)](https://youtu.be/fKbibGro3JM)
+[![Gnome Sort](https://img.youtube.com/vi/eSO6uofNuM4/sddefault.jpg)](https://youtu.be/eSO6uofNuM4)
 
 ## Heap Sort
 
